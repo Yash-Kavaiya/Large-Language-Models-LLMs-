@@ -1,8 +1,7 @@
-# ELL881/AIL821: Large Language Models Course 🚀
+# Large Language Models Course 🚀
 
 ## Course Overview
-Welcome to ELL881/AIL821 - An advanced course on Large Language Models (LLMs) at IIT Delhi for the First Semester, 2024-25. This course provides a comprehensive introduction to the latest advancements in generative AI for text.
-
+Welcome to An advanced course on Large Language Models (LLMs) at IIT Delhi for the First Semester, 2024-25. This course provides a comprehensive introduction to the latest advancements in generative AI for text.
 ![Course Banner](https://raw.githubusercontent.com/lcs2-iitd/ELL881-AIL821-2401/refs/heads/main/_images/logo.png)
 
 ## 📚 Course Structure
